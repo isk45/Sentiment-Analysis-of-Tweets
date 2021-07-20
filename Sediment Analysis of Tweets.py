@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Welcome To Colaboratory
-
 def strip_punctuation(a):
     for x in punctuation_chars:
         if x in a:
